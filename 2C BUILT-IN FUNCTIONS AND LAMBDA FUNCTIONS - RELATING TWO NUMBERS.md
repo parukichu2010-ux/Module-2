@@ -23,9 +23,10 @@ To write a Python program to check the relation between two numbers — whether 
 
 ### PROGRAM
 
-```
-
-```
+a=int(input())
+b=int(input())
+f=lambda a,b: (f"{a} is smaller than {b}")  if a<b else(f"{a} is greater than {b}" if(a>b) else(f"{a} is equal to{b}"))
+print(f(a,b))
 
 ### OUTPUT
 
