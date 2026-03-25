@@ -32,5 +32,6 @@ To write a Python program to print a triangular star pattern using loops.
 ```
 
 ### OUTPUT
-
+![image](https://github.com/user-attachments/assets/2769b95f-5e19-4b03-8cd2-8d09219dd840)
 ### RESULT
+Thus the program to print a pyramid pattern of numbers based on the number of rows entered by the user has been implemented and executed successfully.
