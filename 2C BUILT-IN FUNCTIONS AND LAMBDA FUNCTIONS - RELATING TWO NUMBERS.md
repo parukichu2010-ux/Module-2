@@ -29,12 +29,7 @@ To write a Python program to check the relation between two numbers — whether 
 
 ### OUTPUT
 
-```
-
-```
+![image](https://github.com/user-attachments/assets/709235d8-415c-4f2e-9ded-f01d6a22b302)
 
 ### RESULT
-
-```
-
-```
+Thus the program to check the relation between two number using lambda function has been implemented and executed successfully.
