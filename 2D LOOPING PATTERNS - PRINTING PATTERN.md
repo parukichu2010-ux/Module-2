@@ -25,13 +25,16 @@ To write a Python program to print a triangular star pattern using loops.
 
 ### PROGRAM
 ```
-#Reg.No:
-#Name:
-#Add Your Code Here
+for i in range(rows,0,-1):
+    for j in range(0,i):
+        print("*",end=" ")
+    print()
 
 ```
 
 ### OUTPUT
-![image](https://github.com/user-attachments/assets/2769b95f-5e19-4b03-8cd2-8d09219dd840)
+![image](https://github.com/user-attachments/assets/d511a865-bfcf-426e-ba2b-28be32fe05c7)
 ### RESULT
-Thus the program to print a pyramid pattern of numbers based on the number of rows entered by the user has been implemented and executed successfully.
+Thus the Python program to print a downward pyramid star pattern using loops was executed successfully and the output was verified.
+
+
